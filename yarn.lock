@@ -1480,10 +1480,10 @@ cdk-assets@2.8.0:
     mime "^2.6.0"
     yargs "^16.2.0"
 
-cdk-watchful@^0.6.23:
-  version "0.6.23"
-  resolved "https://registry.yarnpkg.com/cdk-watchful/-/cdk-watchful-0.6.23.tgz#5123c7e7c3f77e45c3299e0f5b8c24b6e350f62c"
-  integrity sha512-ZGooV7Ms364NmYKh+DQUtxV3Agm0s54TV/K+Cd4SKm6aUhckF9QrEwVo96EwadG8Pah7+ojS4YGtFWrrkazlog==
+cdk-watchful@^0.6.24:
+  version "0.6.24"
+  resolved "https://registry.yarnpkg.com/cdk-watchful/-/cdk-watchful-0.6.24.tgz#d6eb78efc875564f574a3dbed5b0234837d8f4e5"
+  integrity sha512-16gXWmOByttEMPAZV6h7R0MXMvY2/iCJi34ZsWPi9X3OmnTE1ZzLoWOnHNDzZ+5ZgExut+LVOtlQzCBGOKIW+Q==
 
 chalk@^2.0.0:
   version "2.4.2"
@@ -1685,9 +1685,9 @@ console-control-strings@^1.0.0, console-control-strings@^1.1.0:
   integrity sha1-PXz0Rk22RG6mRL9LOVB/mFEAjo4=
 
 constructs@^10.0.5:
-  version "10.0.42"
-  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.0.42.tgz#b7b5926a209b323e9a3712deef9428cbd41779aa"
-  integrity sha512-NC/OGRj9a+TCBAuJP6jV99CFMtKEhyRmfMmyKX2WDdbedmmjKk0C2TXgaqGUqsj9PbS0guGP8B4cMIRzmf/7Xg==
+  version "10.0.43"
+  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.0.43.tgz#62f46670ae245bb5c3a302e1e179ddb6199ab925"
+  integrity sha512-2DuvLI/v5Uerk5N46kqT52sH+9G/US1iO2C2WHfLnHOh4VXb+lAVSzfYR+my/UUwczW0KSRC5QAUt1bcPIbLzQ==
 
 conventional-changelog-config-spec@^2.1.0:
   version "2.1.0"
@@ -4217,9 +4217,9 @@ natural-compare@^1.4.0:
   integrity sha1-Sr6/7tdUHywnrPspvbvRXI1bpPc=
 
 negotiator@^0.6.2:
-  version "0.6.2"
-  resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.2.tgz#feacf7ccf525a77ae9634436a64883ffeca346fb"
-  integrity sha512-hZXc7K2e+PgeI1eDBe/10Ard4ekbfrrqG8Ep+8Jmf4JID2bNg7NvCPOZN+kfF574pFQI7mum2AUqDidoKqcTOw==
+  version "0.6.3"
+  resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.3.tgz#58e323a72fedc0d6f9cd4d31fe49f51479590ccd"
+  integrity sha512-+EUsqGPLsM+j/zdChZjsnX51g4XrHFOIXwfnCVPGlQk/k5giakcKsuxCObBRu6DSm9opw/O6slWbJdghQM4bBg==
 
 netmask@^2.0.1:
   version "2.0.2"
