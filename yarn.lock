@@ -1485,10 +1485,10 @@ cdk-assets@2.10.0:
     mime "^2.6.0"
     yargs "^16.2.0"
 
-cdk-watchful@^0.6.30:
-  version "0.6.30"
-  resolved "https://registry.yarnpkg.com/cdk-watchful/-/cdk-watchful-0.6.30.tgz#6da65111d61ce3a2dbc2b38423e258b2c5c67a10"
-  integrity sha512-faNlfdLoBIUE/n5b///2q2l9RVL7WT4ud9w5e4pM4n/622qR2I7/9r4x0l80uv2LnLZ1EgxL5FdgCvXcphOCIg==
+cdk-watchful@^0.6.31:
+  version "0.6.31"
+  resolved "https://registry.yarnpkg.com/cdk-watchful/-/cdk-watchful-0.6.31.tgz#b6f936a1228bbc8696f5ebb8920b56bd3f2913d9"
+  integrity sha512-fzwtIwRKtC48AE5WSJMfipanK/fewMc4+WNbZnVquUY3nbMK9PtTsgD/9qseTPk8snt7AiJc6azj6BS4f1Y4VA==
 
 chalk@^2.0.0:
   version "2.4.2"
@@ -1690,9 +1690,9 @@ console-control-strings@^1.0.0, console-control-strings@^1.1.0:
   integrity sha1-PXz0Rk22RG6mRL9LOVB/mFEAjo4=
 
 constructs@^10.0.5:
-  version "10.0.49"
-  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.0.49.tgz#8adc3c8b1517c2c0ed883013a737182ab173f359"
-  integrity sha512-6J0nS1JJPay00zcxdZ4r6levx35xk823R2dHNfjblJloaQb6WOpYdG9pAq8mb4z1dXdBBUkWKfYEfRL2Rn0x4Q==
+  version "10.0.50"
+  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.0.50.tgz#9b855fd96a75b7d315fa9f1ad41824e88e2d1a20"
+  integrity sha512-VD42/7n4arHVQO445+EHFb7GHmR2+NTt2xHjhbJg93bm2d8ixkRw39aSFdlNurd7DAcOekmXNSU47TM0G7wEmA==
 
 conventional-changelog-config-spec@^2.1.0:
   version "2.1.0"
