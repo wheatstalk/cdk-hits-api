@@ -54,7 +54,7 @@
     "@aws-cdk/aws-apigatewayv2-alpha": "2.8.0-alpha.0",
     "@aws-cdk/aws-apigatewayv2-integrations-alpha": "2.8.0-alpha.0",
     "aws-cdk-lib": "^2.8.0",
-    "aws-sdk": "^2.1072.0",
+    "aws-sdk": "^2.1073.0",
     "cdk-watchful": "^0.6.39",
     "constructs": "^10.0.5"
   },
