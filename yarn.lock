@@ -1096,10 +1096,10 @@ aws-cdk@^2.8.0:
   optionalDependencies:
     fsevents "2.3.2"
 
-aws-sdk@^2.1090.0:
-  version "2.1090.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.1090.0.tgz#c30e4cbc177e4c3b7792020cc79dfaf155cc8197"
-  integrity sha512-oHdfbiuSjK9mn6rrm5fsitdwv7jEiYzaYB0Xz1kqjIczcVX3JEc+9ySdxlueQf4o5G3RVUcLRF2pIc5j9vcHSg==
+aws-sdk@^2.1091.0:
+  version "2.1091.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.1091.0.tgz#2281723dbb4ec49a7decd44554329e9b0a1ce03a"
+  integrity sha512-DSidFjHdZZopF2kBt6I5wlkxeV5xhXWWXtLtZVQw9g9RQxFnmm+B3iBf1mQtw9fPspfyKyQwnBUNnvMtPku3Yw==
   dependencies:
     buffer "4.9.2"
     events "1.1.1"
@@ -1337,10 +1337,10 @@ case@1.6.3, case@^1.6.3:
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
 
-cdk-watchful@^0.6.60:
-  version "0.6.60"
-  resolved "https://registry.yarnpkg.com/cdk-watchful/-/cdk-watchful-0.6.60.tgz#bf1a350f91f726e99832527b35d55277a70b396b"
-  integrity sha512-YDZnrKxh0VlD/tJ56cvfQIIOnw+AxqzAhhZ8zaqlGXqJrhFggSxwI9EBAKPwV4ILpvt4BwV9Ieni97/C/gLTVg==
+cdk-watchful@^0.6.61:
+  version "0.6.61"
+  resolved "https://registry.yarnpkg.com/cdk-watchful/-/cdk-watchful-0.6.61.tgz#dd6078925c4e20b433db75d564245070f733e6c9"
+  integrity sha512-mtsRbcPaUJNxGy/LI58X4nlg/RWE1Y1zc4La2pFv2HMa/eUYupsnJvi5205RFocWKmjOv70Al8h2DTApS4YWoA==
 
 chalk@^2.0.0:
   version "2.4.2"
@@ -1501,9 +1501,9 @@ console-control-strings@^1.1.0:
   integrity sha1-PXz0Rk22RG6mRL9LOVB/mFEAjo4=
 
 constructs@^10.0.5:
-  version "10.0.83"
-  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.0.83.tgz#baaad327862403268cb229b7133836262ef7d178"
-  integrity sha512-Lq79m0R3ZHq7xImwr2P8RRJQkEUY/ApQKO0KYf6yWSUKOKMgTvVT+zv9zeGYbzb9rfEEP5xhIOMbRSEjSQrU1Q==
+  version "10.0.84"
+  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.0.84.tgz#35f695053b3dc54abae2835e91ca8469ebfcddec"
+  integrity sha512-7Id7kN3oIlsr0IQ2ghC1I4xLWOUMorC9P0he007/TvrnA+2nmUjODRNYq536m/1tRV668H78dvZ4VQ6+ExOHIw==
 
 conventional-changelog-config-spec@^2.1.0:
   version "2.1.0"
@@ -1698,9 +1698,9 @@ duplexer3@^0.1.4:
   integrity sha1-7gHdHKwO08vH/b6jfcCo8c4ALOI=
 
 electron-to-chromium@^1.4.76:
-  version "1.4.79"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.79.tgz#02b504e1e6039b2e61edfc5f856895a0927925f5"
-  integrity sha512-nWfAxof87mGHkbORCwVRPst4FlSVdprOKS6dBMrcwn3sjwf8iHXEhsu1+FU5Psd7Ps3KKeBufAdfsPK5BmbSUg==
+  version "1.4.81"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.81.tgz#a9ce8997232fb9fb0ec53de8931a85b18c0a7383"
+  integrity sha512-Gs7xVpIZ7tYYSDA+WgpzwpPvfGwUk3KSIjJ0akuj5XQHFdyQnsUoM76EA4CIHXNLPiVwTwOFay9RMb0ChG3OBw==
 
 emittery@^0.8.1:
   version "0.8.1"
@@ -2298,11 +2298,10 @@ functional-red-black-tree@^1.0.1:
   integrity sha1-GwqzvVU7Kg1jmdKcDj6gslIHgyc=
 
 gauge@^4.0.0:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/gauge/-/gauge-4.0.2.tgz#c3777652f542b6ef62797246e8c7caddecb32cc7"
-  integrity sha512-aSPRm2CvA9R8QyU5eXMFPd+cYkyxLsXHd2l5/FOH2V/eml//M04G6KZOmTap07O1PvEwNcl2NndyLfK8g3QrKA==
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/gauge/-/gauge-4.0.3.tgz#286cf105c1962c659f0963058fb05116c1b82d3f"
+  integrity sha512-ICw1DhAwMtb22rYFwEHgJcx1JCwJGv3x6G0OQUq56Nge+H4Q8JEwr8iveS0XFlsUNSI67F5ffMGK25bK4Pmskw==
   dependencies:
-    ansi-regex "^5.0.1"
     aproba "^1.0.3 || ^2.0.0"
     color-support "^1.1.3"
     console-control-strings "^1.1.0"
@@ -3569,9 +3568,9 @@ lru-cache@^6.0.0:
     yallist "^4.0.0"
 
 lru-cache@^7.3.1, lru-cache@^7.4.1:
-  version "7.4.2"
-  resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-7.4.2.tgz#92f7b5afe82759f51b216a96fae3bc1828df9712"
-  integrity sha512-Xs3+hFPDSKQmL05Gs6NhvAADol1u9TmLoNoE03ZjszX6a5iYIO3rPUM4jIjoBUJeTaWEBMozjjmV70gvdRfIdw==
+  version "7.4.4"
+  resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-7.4.4.tgz#a3dabc394ec07e2285af52fd24d0d74b3ac71c29"
+  integrity sha512-2XbUJmlpIbmc9JvNNmtLzHlF31srxoDxuiQiwBHic7RZyHyltbTdzoO6maRqpdEhOOG5GD80EXvzAU0wR15ccg==
 
 make-dir@^3.0.0:
   version "3.1.0"
